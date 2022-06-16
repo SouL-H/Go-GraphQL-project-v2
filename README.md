@@ -21,6 +21,8 @@ default uri : http://localhost:8080/
 ## Query Example
 
 
+devtopics
+
 
 <p>
     <img src="./img/query.png"  style="width:600px;" alt="Observer">
@@ -40,3 +42,6 @@ default uri : http://localhost:8080/
 <img src="./img/createTodo.png"  style="width:600px;" alt="Observer">
 
 </p>
+
+
+#### Thank you devtopics 
