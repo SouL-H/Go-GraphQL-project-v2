@@ -33,7 +33,7 @@ func NewStore() *Store{
 	}
 }
 
-//HTTP ara katman
+// HTTP ara katman
 
 func WithStore(store *Store,next http.Handler)http.Handler{
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request){

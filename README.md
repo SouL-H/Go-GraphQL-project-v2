@@ -43,5 +43,15 @@ devtopics
 
 </p>
 
+## To Reduce Docker File size by %60
+```
+./Dockerfile
 
+FROM golang 
+
+Replace with " FROM golang:1.16-alpine "
+
+Previous size 860MB
+Current size is 330MB
+``` 
 #### Thank you devtopics 
